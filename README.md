@@ -9,4 +9,4 @@ A simple game enjoy !
 
 
 
-memobeast.netlify.app
+https://memobeast.netlify.app/
